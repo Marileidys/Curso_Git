@@ -1,0 +1,135 @@
+    1   ls
+    2   ls..
+    3  pwd
+    4  cd Desktop
+    5  pwd
+    6  cd..
+    7  cd Desktop/
+    8  mkdir comandos
+    9  cd Comandos/
+   10  mkdir pasta nova
+   11  ls
+   12  mkdir ''pasta nova''
+   13  ls
+   14  mkdir-p new/old
+   15  ls
+   16  ls new
+   17  rm -r new
+   18  ls
+   19  mv''pasta nova' pasta_nova
+   20   ls
+   21   cat > comando.txt
+   22  cat comando.txt
+   23  mensagem
+   24  cat
+   25  ls
+   26  cd
+   27  cd marileidys toti
+   28  cd toti
+   29  ls
+   30  cd toti
+   31  pwd
+   32  cd toti
+   33  cd Toti
+   34  cd TOTI
+   35  cd desktop
+   36  cd escritorio
+   37  cd TOTI
+   38  ls
+   39  cd TOTI
+   40  cd desktop
+   41  ls
+   42  cd TOTI
+   43  pwd
+   44  cd toti
+   45  ls
+   46  cd TOTI
+   47  cd comandos
+   48  cd desktop
+   49  ls
+   50  ls
+   51  ls..
+   52  ls ..
+   53  pwd
+   54  cd Desktop
+   55  pwd
+   56  cd ..
+   57  cd Desktop/
+   58  mkdir Comandos
+   59  ls
+   60  mkdir comandos
+   61  cd TOTI
+   62  mkdir comandos
+   63  clean
+   64  ls
+   65  CD TOTI
+   66  cd TOTI
+   67  ls
+   68  tmp
+   69  ls
+   70  cd~
+   71  cd ~
+   72  cd TOTI
+   73  cd TOTI
+   74  ls
+   75  cd TOTI
+   76  cd ~
+   77  cd TOTI
+   78  mkdir comandos
+   79  mkdir pasta nova
+   80  ls
+   81  mkdir 'pasta nova'
+   82  mkdir -p new/old
+   83  ls
+   84  clean
+   85  git branch
+   86  cd ~
+   87  cd TOTI
+   88  Ggit branch
+   89  mkdir branch
+   90  cd branch
+   91  git branch
+   92  git checkout master
+   93  git log
+   94  cd ~
+   95  git config --global user.name 'Marileidys'
+   96  git config --global user.email 'Marileidys21@gmail.com
+
+'
+   97  git config --global user.email 'Marilleidys21@gmail.com
+'
+   98  git config --global user.email 'Marilleidys21@gmail.com'
+   99  git config user.name
+  100  cd Desktop/
+  101  mkdir Curso_Git
+  102  cd Curso_Git/
+  103  git config user.name
+  104  git init
+  105  git status
+  106  echo '#Aprendendo usar o Git' > readme.md
+  107  git status
+  108  git add readme.md
+  109  git status
+  110  git commit -m 'Commit inicial'
+  111  git status
+  112  echo '##Aula 1' >> readme.md
+  113  git status
+  114  echo ' Marileidys' > participantes.txt
+  115  git status
+  116  git add
+  117  git add .
+  118  git status
+  119  git restore --staged participantes.txt
+  120  git status
+  121  git add participantes.txt
+  122  git status
+  123  git restore -- staged .
+  124  git restore --staged .
+  125  git status
+  126  git commit -am 'Alteracion no readme'
+  127  git status
+  128  git add participantes.txt
+  129  git status
+  130  git cmmit -m 'Adicionado participantes.txt'
+  131  git commit -m 'Adicionado participantes.txt'
+  132  history > Aula_3.txt
